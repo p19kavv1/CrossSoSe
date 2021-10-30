@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Executables
+*.exe
 # C extensions
 *.so
 
@@ -127,3 +129,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/Scripts/python.exe
+/Scripts/activate
+/Scripts/activate.bat
+/Scripts/Activate.ps1
+/.idea/CrossSoSe.iml
+/Scripts/deactivate.bat
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/pyvenv.cfg
+/.idea/vcs.xml
